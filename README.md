@@ -1,4 +1,4 @@
-# CS1555-Team7
+
 
 ## Database Setup
 Set up the Database in postgresSQL by running the schema, trigger, and insert files.
