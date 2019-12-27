@@ -1,8 +1,4 @@
-/* CS1555 Fall 2019
- * Team 7
- *
- * Elena DeJaco
- * Stephen Longofono
+/* 
  * Matthew Hrydil
  *
  * to compile on mac running java 8+: javac -cp postgresql-42.2.8.jar PittSocial.java
